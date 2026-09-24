@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.tar.gz
+.openai/
+.sites-runtime/
+.env*
